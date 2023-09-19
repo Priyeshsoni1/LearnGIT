@@ -1,0 +1,17 @@
+Git is distributed version control system.
+git is developed by linus torvalds same guy developed linux.
+vcs:------------>basically it record the changes the files.(it is software)
+Git having the ability of revert the change .
+Git only not record the source code, it also tracks text , image , all types of files.
+
+-------------------------------------------------------------------------------------------
+Three types of vcs( local, central ,distributed)
+
+local:copy files to another directory in local(backup in another directory or hardDrive and renaming as date and time of folder)
+
+centralized:collaborate to other developer on single file. Single server system and having all files 
+and everyone is taking files from center.Admini have full access.
+
+
+distributed:Server depencency less , because if server not working , we can make commit on local and when server start we push.
+

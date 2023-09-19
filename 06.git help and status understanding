@@ -1,0 +1,6 @@
+git help // all normal command
+git help -a // all command
+
+git help init(command name)// detail
+
+git status// give status of project

@@ -1,0 +1,7 @@
+git config user.email //  show email
+git config local user.email aabc@gmail.com // showing this email as locally for this project
+------same as Name also-----
+git config unset user.email// unset the Name
+
+
+git config --local --remove-section user// delete the user section in local repo of project

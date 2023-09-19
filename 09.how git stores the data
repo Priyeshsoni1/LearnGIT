@@ -1,0 +1,9 @@
+Explore the git SHA1 hash objects in repository with cat-file command.
+------------------------------------------------------------------------------------------
+In object form key and value
+having a different sha1(40bit hexadecimal code) for every different commit in object folder of git 
+
+
+git cat-file hashcode -p// detailing of every hash code
+
+blob means :End after that direct code ya changes will be seen

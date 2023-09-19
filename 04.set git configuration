@@ -1,0 +1,4 @@
+set your email username and email address.
+
+steps:
+1.git config --list --show-origin  //user level config

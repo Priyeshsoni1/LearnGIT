@@ -1,0 +1,5 @@
+No network latency in Git because max work on local computer.
+example if want to see change history ,it will do locally
+in git having local database 
+---------------------
+git having three stage:modified,staged,commited

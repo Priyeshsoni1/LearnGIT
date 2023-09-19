@@ -1,0 +1,5 @@
+git add filename//add to stagging area
+git commit // add to commit 
+------------------------ctrl +c ,then :wq(write and quit)
+
+git log// all details of commit
